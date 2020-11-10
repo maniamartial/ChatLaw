@@ -1,0 +1,973 @@
+1. This Act may be cited as the Traffic Act.
+2. In this Act, unless the context otherwise requires -
+“bicycle” means any bicycle or tricycle not self-propelled;
+“cattle” includes oxen, bulls, cows, horses, camels, mules, asses,
+sheep, goats and swine;
+“certifying officer” means the person appointed to be the certifying
+officer under subsection (2) of section 3;
+“commercial vehicle” means a motor vehicle constructed or
+adapted for the carriage of goods or burdens of any description in
+connexion with any trade, business or agriculture, but does not include
+any type or class of motor vehicle which the Registrar may, by notice
+in the Gazette, declare not to be commercial vehicles for the purposes
+of this Act;
+“dealer” means any person who deals by way of business in motor
+39 of 1953,39 of 1956,
+14 of 1958,52 of 1959,
+14 of 1960,24 of 1960,
+14 of 1962,L.N. 242/1964,
+9 of 1967,8 of 1968,
+13 of 1968,38 of 1968,
+5 of 1971,14 of 1971,
+13 of 1972, 4 of 1974,
+16 of 1977, 13 of 1980,
+14 of 1982, 19 of 1982,
+11 of 1983, 10 of 1984,
+1 of 1986, 20 of 1989,
+14 of 1991, L.N 187 / 1994,
+L.N. 290/1994, L.N. 352/1995,
+L.N. 393/1995, L.N. 126/1996,
+L.N 127/1996, L.N130/1996,
+L.N. 163/1997, L.N. 164/1997,
+L.N. 112/1999, L.N. 119/2001,
+L.N. 159/2001, L.N. 103/2002,
+L.N. 104/2002, L.N. 105/2002,
+L.N. 132/2002, L.N. 161/2003,
+L.N. 179/2003, L.N. 83/2004,
+L.N. 97/2004, L.N. 65/2005,
+L.N. 55/2006, L.N. 56/2006,
+L.N. 57/2006, L.N. 111/2006,
+L.N. 33/2007, L.N. 88/2007,
+L.N. 89/2007,L.N. 145/2007,
+2 of 2007, 7 of 2007,
+9 of 2007,
+8 of 2008.
+Short title.
+Interpretation.
+52 of 1959, s.2,
+13 of 1972, Sch.,
+10 of 1984, s. 2,
+1 of 1986, s.3.
+L.N. 83 of 2004,
+LN. 97 of 2004.
+8 CAP. 403 Traffic [Rev. 2009
+vehicles or trailers;
+“dealer’s general licence” means a licence issued under section 23;
+“drive”, in relation to a motor vehicle, includes the steering of a
+motor vehicle;
+“driver” means any person who drives or guides, or is in actual
+physical control of, any vehicle or cattle on any road;
+“driving licence” means a licence to drive a motor vehicle issued
+under this Act, and any document deemed to be a driving licence by
+any rules made under this Act;
+“driving test examiner” means any person appointed to be a
+driving test examiner under subsection (3) of section 3:
+“heavy commercial vehicle” means a commercial vehicle whose
+tare weight exceeds six thousand seven hundred and twenty pounds;
+“highway authority” means the Minister for the time being
+responsible for public roads or any other Authority or body to whom
+the Minister delegates powers subject to such terms and conditions as
+he may deem appropriate.
+“inspection certificate” means a certificate affixed to a vehicle
+under section 17A;
+“inspector” means any person appointed to be an inspector of
+vehicles under subsection (3) of section 3;
+“invalid carriage” means a motor vehicle specially designed and
+constructed for the use of persons suffering from some physical defect
+or disability;
+“licensing officer” means a licensing officer appointed under
+section 3;
+“manufacturer” means a manufacturer of motor vehicles and
+trailers;
+“matatu” means a public service vehicle having a seating
+accommodation for not more than twenty-five passengers exclusive of
+the driver, but does not include a motor car;
+“motor car” means a motor vehicle having seating accommodation
+for not more than ten passengers excluding the driver, but does not
+2 of 2007.
+Rev. 2009] Traffic CAP. 403 9
+include a motor cycle;
+“motor cycle” means a motor vehicle with less than four wheels
+the weight of which unladen does not exceed eight hundredweights;
+“motor omnibus” means a public service vehicle having seating
+accommodation for more than twenty-five passengers exclusive of the
+driver;
+“motor vehicle” means any mechanically propelled vehicle,
+excluding any vehicle running on a specially prepared way such as a
+railway or tramway or any vehicle deriving its power from overhead
+electric power cables or such other vehicles as may from time to time
+by rules under this Act be declared not to be motor vehicles for the
+purposes of this Act;
+“owner”, in relation to a vehicle which is the subject of a
+hire-purchase agreement or hiring agreement, includes the person in
+possession of the vehicle under that agreement;
+“plying for hire” includes -
+(a) standing on any public taxi stand;
+(b) being offered for hire by any notice, advertisement or
+announcement;
+(c) standing or travelling whilst exhibiting a “For Hire” notice
+of any kind;
+“provisional licence” means a licence issued under section 32;
+“private hire vehicle” means any public service vehicle constructed
+or adapted to carry not more than seven passengers, exclusive of the
+driver, such vehicle not being a taxicab or matatu;
+“public service vehicle” means any motor vehicle which -
+(a) is licensed under Part XI to carry passengers for hire or
+reward; or
+(b) plies for hire or reward or is let out for hire or reward; or
+(c) is carrying passengers for hire or reward;
+“Registrar” means the Registrar of Motor Vehicles appointed
+under section 3;
+“road” means any public road within the meaning of the Public
+Roads and Roads of Access Act, and includes any other road or way,
+wharf, car park, footpath or bridlepath on which vehicles are capable
+of travelling and to which the public has access;
+Cap. 399.
+10 CAP. 403 Traffic [Rev. 2009
+“tare weight” means the weight of a vehicle when unladen,
+inclusive of the weight of the body and all parts (the heavier being taken
+when alternative bodies or parts are used) which are necessary to or
+ordinarily used with the vehicle when used on the road;
+“taxicab” means any public service vehicle constructed or adapted
+to carry not more than seven passengers, exclusive of the driver, which
+is registered under any by-laws relating to the licensing and operation
+of taxicabs to ply for hire from a taxi rank or other public place within
+the area where such by-laws are in force;
+“tractor” means a motor vehicle constructed or adapted for the
+purpose of hauling trailers but which is not itself designed to carry
+goods or passengers;
+“trailer” means any vehicle designed to be drawn by a motor
+vehicle, but does not include a sidecar attached to a motor cycle;
+“traffic signs” means any sign, notice, signal, light or other device
+erected or in any way displayed by or with the consent of the highway
+authority, for the purpose of regulating, restricting or prohibiting traffic
+and vehicles of any kind, on a road:
+Provided that all traffic signs shall conform to any regulations as
+to size, colour and type which may be prescribed by rules made under
+this Act;
+“vehicle” includes a motor vehicle, a trailer and any other
+conveyance used on a road.
+3.(1) The Minister shall, by notice in the Gazette, appoint a
+Registrar of Motor Vehicles, who shall be responsible for the registration
+and licensing of motor vehicles and trailers and for the licensing of
+drivers, and for the keeping of such records in relation thereto as are
+required by this Act.
+(2) The Registrar shall, by notice in the Gazette, appoint such
+licensing officers as may be necessary for the carrying out of the
+provisions of this Act.
+(3) The Minister shall, by notice in the Gazette, appoint -
+(a) a certifying officer, who shall perform such duties under
+this Act and any rules made thereunder in relation to the
+examination of vehicles as the Minister may direct, and for
+the purpose of performing such duties the certifying officer
+shall have and may exercise the powers of an inspector under
+this Act; and
+Appointment of
+officers.
+52 of 1959, s.3,
+L.N. 242/1964. 
+Rev. 2009] Traffic CAP. 403 11
+(b) such inspectors and driving test examiners as may be
+necessary for carrying out the provisions of this Act.
+4. For the purposes of this Act, motor vehicles shall be divided
+into the following classes -
+(a) motor omnibuses;
+(b) heavy commercial vehicles;
+(c) commercial vehicles;
+(d) tractors;
+(e) motor cars;
+(f) motor-cycles not exceeding fifty cubic centimetres engine
+capacity;
+(g) motor-cycles exceeding fifty cubic centimetres engine
+capacity;
+(h) invalid carriages;
+(i) special types of motor vehicles for which special authorization
+is required from the Registrar before such vehicles can be
+registered or used on a road; and
+(j) matatus.
+ PART II - REGISTRATION OF VEHICLES
+5. (1) The Registrar shall keep records of all motor vehicles and
+trailers registered in Kenya, and shall cause every licensing officer to
+keep records of all vehicles registered by him.
+(2) Vehicle records maintained by the Registrar or a licensing
+officer shall be open for inspection by any police officer, any collector
+of customs and the chairman of the Transport Licensing Board, who
+shall be entitled to copy any entry in such records free of charge.
+(3) Any person who satisfies the Registrar that he has reasonable
+cause therefor shall be entitled on payment of the prescribed fee to a
+copy of any entry in such vehicle records.
+6. (1) No person shall possess a motor vehicle or trailer, other
+than a vehicle exempted from the provisions of this Part, unless such
+vehicle is registered under this Act.
+(1A) No motor vehicle imported for home use shall be used on a
+road unless it is registered:
+Provided that a commercial vehicle which requires inspection
+under this section shall be registered within fourteen days of
+inspection.
+Classification.
+10 of 1984, s. 3.
+Records of vehicles.
+Motor vehicles
+and trailers to be
+registered.
+52 of 1959, s.4,
+14 of 1982, s.26,
+8 of 2008.
+12 CAP. 403 Traffic [Rev. 2009
+(2) Application for the registration of any vehicle shall be made
+to a licensing officer in the prescribed form, and shall be accompanied
+by the prescribed fee.
+(3) A licensing officer, before he registers any motor vehicle or
+trailer, may verify all the particulars in the form of application, and
+may, if he thinks fit, send the vehicle to an inspector for examination in
+order to satisfy himself that the vehicle is in a fit and proper condition
+for the purpose for which it is intended to be used and to conform in
+all respects to the provisions of this Act.
+(4) If any application is made to register any commercial vehicle
+or trailer the load capacity of which has not been declared by the
+manufacturers of the chassis, a licensing officer shall not register the
+vehicle or trailer until an inspector has determined its load capacity;
+and the determination shall be final.
+(5) A licensing officer, on being satisfied as to the accuracy of the
+particulars contained in a form of application for the registration of a
+vehicle, shall assign the vehicle a registration number, which shall be
+the identification mark of the vehicle; particulars of the vehicle shall be
+forwarded by the licensing officer to the Registrar, who shall enter such
+particulars in his records and shall issue to the owner of the vehicle a
+registration book, which book, or a duplicate thereof, shall be proof of
+registration of the vehicle.
+(6) If a registration book has been lost, destroyed or defaced
+or the particulars thereon have become illegible, the owner of the
+vehicle shall apply in the prescribed form for a duplicate thereof, and
+the Registrar, if satisfied as to such loss, destruction, defacement or
+illegibility, shall, upon payment of the prescribed fee, issue a duplicate
+registration book:
+Provided that any registration book which has been lost and is
+subsequently found shall forthwith be returned to the Registrar for
+cancellation.
+(7) In the event of any change of circumstance which affects the
+accuracy of the registered particulars of any vehicle, the owner of the
+vehicle shall inform the Registrar of such change and shall forward
+to him the registration book in order that it may be amended together
+with the prescribed fee, and shall supply the Registrar with any further
+information which he may require.
+(8) If the licensing officer has reason to believe that a motor
+vehicle or trailer in respect of which registration has been applied for is
+or may be of a type not previously registered under this Part, or is of a 
+Rev. 2009] Traffic CAP. 403 13
+type so registered but constructed according to different specifications,
+he may refuse to register the vehicle or trailer until plans or specifications
+thereof have been submitted to and approved by the Registrar.
+7. The owner of a vehicle which is required under this Part to be
+inspected shall, before the inspection is carried out, pay to a licensing
+officer the fee prescribed therefor.
+8. The person in whose name a vehicle is registered shall, unless
+the contrary is proved, be deemed to be the owner of the vehicle.
+9. (1) No motor vehicle or trailer the ownership of which has
+been transferred by the registered owner shall be used on a road for
+more than fourteen days after the date of such transfer unless the new
+owner is registered as the owner thereof.
+(2) Upon the transfer of ownership of a motor vehicle or trailer,
+the registered owner thereof shall, within seven days from the date of
+the transfer, inform the Registrar in the prescribed form of the name and
+address of the new owner and deliver to the new owner the registration
+book in respect of such vehicle; and the new owner shall, after inserting
+particulars of the change of ownership, forward the registration book
+with the prescribed fee to the Registrar, whereupon the vehicle shall be
+registered in the name of the new owner:
+Provided that, where in any case the registered owner of a vehicle
+has failed to comply with the provisions of this subsection, the Registrar,
+on being satisfied that the registered owner has died or has left Kenya
+or cannot be traced or refuses to comply with the provisions of this
+subsection, may on payment of the prescribed fee, cause the vehicle to
+be registered in the name of the new owner.
+(3) Subsections (1) and (2) shall not apply to a change of
+possession consequent on a contract of hiring where the period of hiring
+does not exceed three months or where the registered owner continues
+to employ and pay the driver of the vehicle.
+(4) Application for registration of a new owner may be made
+before the actual transfer of the vehicle, but the registration of a
+new owner shall not be effective until the registration book has been
+surrendered to and reissued by the Registrar.
+(5) Subsections (1), (2) and (4) shall not apply to any change of
+possession of a vehicle which occurs by reason of the vehicle being
+lawfully seized under a hire-purchase agreement, but in such event the
+following provisions shall apply -
+Inspection fee.
+52 of 1959, s.5.
+Owner of vehicle.
+Change of
+ownership. 
+14 CAP. 403 Traffic [Rev. 2009
+(a) the registered owner or his representative shall, within
+fourteen days of the seizure, deliver the registration book
+to the person who has seized the vehicle, and inform the
+Registrar in writing of the change of possession;
+(b) such person shall, within fourteen days of receiving the
+registration book, apply to the Registrar to be registered as the
+owner thereof in place of the registered owner, and shall on
+payment of the prescribed fee be registered accordingly.
+(6) On the registration of a new owner, the Registrar shall make
+the necessary alterations to the registration book, and shall deliver
+the amended registration book to the new registered owner; and the
+Registrar, if he thinks fit, may issue a new registration book.
+10. Notwithstanding the provisions of this Act, a licensing
+officer shall not register a motor vehicle unless the owner of the vehicle
+satisfies him -
+(a) that the vehicle has been lawfully exported from its country
+of origin or the country in which it was last registered, and
+that such owner is in possession of any export permit in
+relation to the export of the vehicle required by the law of
+the country of origin or of last registration; and
+(b) that the vehicle has been lawfully imported into Kenya.
+11. The Minister may, by notice in the Gazette, exempt any
+vehicle, class or description of vehicle from the provisions of this
+Part.
+12. (1) No motor vehicle or trailer registered under this Act or
+driven under the authority of a general dealer’s licence shall be used
+on a road unless there is fixed thereto in the prescribed manner the
+prescribed number of identification plates of the prescribed design and
+colour on which is inscribed the identification mark of the vehicle or
+of the general dealer’s licence:
+Provided that identification plates used under the authority of a
+general dealer’s licence may be suspended from the vehicle and not
+fixed.
+(2) (Deleted by 4 of 1974.)
+13. The owner of a vehicle shall, when requested by a police
+officer, produce for inspection, either immediately to the police officer or
+within five days of the request being made, at a police station nominated
+by the owner, the registration book issued in respect of the vehicle.
+No registration
+of motor vehicles
+exported or imported
+unlawfully.
+Vehicles may be
+exempted from
+registration.
+L.N.242/1964.
+Vehicles to carry
+identification plates.
+4 of 1974, Sch.
+Production of
+registration book. 
+Rev. 2009] Traffic CAP. 403 15
+14. Any person who contravenes or fails to comply with any
+of the provisions of this Part shall be guilty of an offence and liable
+on first conviction to a fine not exceeding one thousand shillings or
+to imprisonment for a term not exceeding three months, and on each
+subsequent conviction to a fine not exceeding two thousand shillings or
+to imprisonment for a term not exceeding six months or to both.
+ PART III - LICENSING OF VEHICLES
+15. (1) No person shall own or possess a motor vehicle or trailer,
+or use it on a road, unless such vehicle or trailer is licensed under and
+in accordance with this Part.
+(2) Where the owner or person in possession of a motor vehicle
+or trailer gives written notice to the Registrar that for a stated period he
+does not intend that it shall be used on any road, or where he satisfies
+the Registrar that for a stated period such vehicle or trailer was not
+used on any road, he shall not, after the receipt of such notice by the
+Registrar or, as the case may be, after the Registrar is so satisfied, be
+liable to conviction under or by virtue of this section by reason only of
+his ownership or possession of the vehicle or trailer during the stated
+period.
+(3) The Minister may by notice in the Gazette exclude any vehicle,
+or any class or description of vehicle, from the operation of all or any
+of the provisions of this Part.
+16. Applications for licences under this Part shall be made to a
+licensing officer in the prescribed form accompanied by the fee payable
+and the vehicle registration book.
+17. (1) A licensing officer shall issue a licence only if he is
+satisfied-
+(a) that the vehicle is duly registered; and
+(b) that the particulars in the registration book are correct;
+and
+(c) that the vehicle is insured against third party risks in
+accordance with the provisions of the Insurance (Motor
+Vehicles Third Party Risks) Act; and
+(d) that the licence in respect of such vehicle has not been
+cancelled under subsection (3) of section 58.
+(2) Before issuing a licence in respect of any motor vehicle
+or trailer of a class prescribed for the purposes of this subsection, a
+licensing officer shall require the applicant to produce an inspection
+report showing that the vehicle or trailer has been examined by an
+inspector during the months immediately preceding the commencement
+Penalties under Part.
+Motor vehicles and
+trailers to be licensed.
+14 of 1958, s. 2,
+L.N. 242/1964.
+Application for
+licence.
+Conditions for issue
+of licence.
+52 of 1959, s.6,
+13 of 1980, Sch.
+Cap. 405. 
+16 CAP. 403 Traffic [Rev. 2009
+of the licence and that the vehicle or trailer complies with the provisions
+of this Act and of any rules made thereunder:
+Provided that no such inspection report shall be required in the
+case of a vehicle which is intended to be used as an omnibus and in
+respect of which a certificate of fitness issued under paragraph (g) of
+subsection (3) of section 96, and dated not earlier than ten months before
+the commencement of the licence, is produced.
+(3) Where under this section the owner of any vehicle or trailer is
+required to have it examined by an inspector, he shall make application
+in the prescribed form, paying such fee as may be prescribed, and
+thereupon an inspector shall examine the vehicle or trailer and shall
+issue an inspection report in the prescribed form.
+17A. (1) Where -
+(a) an inspector issues an inspection report for the purposes
+of section 17 (2) showing that a motor vehicle or trailer
+complies with the provisions of this Act and of any rules
+made thereunder; or
+(b) a certifying officer issues a certificate of fitness in respect
+of a public service vehicle under section 96 (3) (g),
+the inspector or the certifying officer, as the case may be, shall affix to
+the vehicle or trailer in the prescribed manner an inspection certificate
+in the prescribed form.
+(2) The inspection certificate shall relate to and bear the same
+number as the inspection report or certificate of fitness, as the case
+may be.
+(3) No motor vehicle or trailer of a class prescribed for the
+purposes of section 17 (2) shall be used on a road unless an inspection
+certificate which is -
+(a) valid and in force at the time; and
+(b) legible and in no way defaced or mutilated, is affixed to the
+vehicle or trailer.
+18. Every vehicle licence shall be in the prescribed form.
+19. (1) Vehicle licences, other than a dealer’s general licence,
+may be issued for such periods and upon payment of such fees as may
+be prescribed:
+Provided that, where a period is so prescribed, a licence issued
+before the period is prescribed shall not be invalid solely by reason that
+the period for which it was issued is different from that prescribed.
+Vehicle inspection
+certificates.
+1 of 1986, s. 3A.
+Form of licences.
+14 of 1962, s.2.
+Fees and duration of
+licences.
+14 of 1962, ss. 3
+and 8. 
+Rev. 2009] Traffic CAP. 403 17
+(2) The holder of a vehicle licence, other than a dealer’s general
+licence, shall, on surrendering it for cancellation to the Registrar, be
+entitled to such refund as may be prescribed:
+Provided that, where the refund as calculated includes part of a
+shilling, the refund shall exclude such part of a shilling.
+20. No vehicle which is required to be licensed shall be used on
+a road unless the licence, which shall be legible and in no way defaced,
+is carried on the vehicle in the prescribed manner.
+21. If a vehicle licence is lost, defaced, mutilated or rendered
+illegible, the Registrar shall issue a duplicate licence on payment of
+the prescribed fee:
+Provided that any licence which has been lost and is subsequently
+found shall forthwith be returned to the Registrar for cancellation.
+22. (1) The holder of a vehicle licence shall apply for a new
+licence-
+(a) where he desires to use the vehicle for any purpose not
+authorized by the licence; and
+(b) where the vehicle is so altered that a higher duty or a duty of
+a different class is required.
+(2) A new licence under this section shall not be issued until the old
+licence has been surrendered, and in respect of every such new licence
+there shall be deducted from the fee payable therefor a rebate calculated
+in like manner as is provided in subsection (2) of section 19.
+23. (1) The Registrar may issue to a dealer in, or manufacturer or
+repairer of, motor vehicles, upon application in the prescribed form and
+upon payment of the prescribed fees, such number of dealer’s general
+licences as the applicant may require, and with each such licence shall
+issue two identification plates.
+(2) Subject to sections 24, 25, 26 and 27 and to any other
+conditions which may from time to time be prescribed, the holder of a
+dealer’s general licence shall use the licence only in respect of vehicles
+in his possession; and shall not use more than one such vehicle under
+the authority of one licence at any one time.
+24. (1) No vehicle shall be used on any road under the authority
+of a dealer’s general licence -
+(a) to convey passengers or goods for profit or reward;
+(b) to carry or convey any goods whatsoever except such load
+as may be necessary for the purpose of testing the motor
+Licence to be carried
+on vehicle.
+Duplicate licences.
+New licence to be
+applied for in certain
+circumstances.
+Dealer’s general
+licence.
+Use of dealer’s
+general licence.
+52 of 1959, s.7.
+18 CAP. 403 Traffic [Rev. 2009
+vehicle or trailer, and no such load, and no part thereof, shall
+be removed from the motor vehicle or trailer at any time
+between the departure from and the return to the loading
+place of the motor vehicle or trailer, save in the case of an
+accident; or
+(c) except with the permission in writing of the Registrar, for
+any purpose other than -
+(i) for proceeding to or returning from any inspection, examination or test as provided for by this Act;
+(ii) for proceeding from the premises of a dealer to a railway
+station or wharf for entraining or shipment, or from a
+train or ship to such premises; or
+(iii) for test or trial during or after completion, construction,
+assembly or repair; or
+(iv) for test or trial by or on behalf of an intending purchaser,
+or for proceeding to or from the place where the purchaser
+intends to keep it; or
+(v) for proceeding to or from a public weighbridge for the
+purpose of its weight being ascertained or to or from a
+place for registration;
+(vi) for exportation to any territory in East Africa, the Sudan
+or Zaire;
+(vii) for proceeding from the premises of a dealer to the
+premises of a purchaser or of another dealer or manufacturer;
+(viii) for towing a motor vehicle which while being driven
+upon a road has become unable to proceed under its own
+power from the place where it has broken down to a place
+for repair or storage;
+(ix) for proceeding to or returning from a workshop in which
+a body is to be or has been fitted to the motor vehicle or
+where the motor vehicle is to be or has been painted or
+repaired; or
+(x) for proceeding to or returning from an exhibition of
+motor vehicles.
+(2) In any proceedings under this section, the burden of proving
+the fact of an accident for the purposes of paragraph (b) of subsection
+(1) shall lie on the person charged.
+(3) No vehicle shall be used on any road under the authority of
+a dealer’s general licence unless the holder of the licence, or a person
+duly authorized by him, accompanies the vehicle.
+(4) Not more than two persons, in addition to the driver, shall
+be carried within or upon any such vehicle, and such persons shall be
+limited to a prospective purchaser and his agent or a member of his 
+Rev. 2009] Traffic CAP. 403 19
+family or, in the case of a vehicle proceeding to or from an accident,
+two mechanics.
+(5) Upon the issue of a dealer’s general licence, the Registrar
+shall also supply to the person to whom such licence is issued a book
+in a form approved by the Registrar, in which the holder of such licence
+shall on each occasion and before such licence is used complete in
+duplicate the entries for which provision is therein made; one copy
+of such entries shall remain in the book, and the other copy shall be
+carried with the vehicle during the whole of the journey to which such
+entries relate, and shall be produced at any time during such journey
+by the driver for inspection upon demand made by any police officer,
+licensing officer or inspector.
+(6) Every such book shall be produced at all reasonable times for
+inspection by any police officer, licensing officer or inspector, and shall
+be kept available for inspection at the place specified in the declaration
+made on application for the general dealer’s licence as the place at which
+the book will be kept.
+(7) No person shall deface or mutilate any such book, or make
+any entry therein which is to his knowledge false or misleading, or alter
+or obliterate any entry made therein, or except as provided by this Act
+make any entry therein or addition thereto, or after its removal from
+such book make, alter or obliterate any entry in any copy to be carried
+on the vehicle.
+25. (1) A dealer’s general licence shall continue in force until the
+31st December next following the date of issue.
+(2) Every dealer’s general licence shall cease to be valid if the
+dealer ceases to carry on business in the district for which it is issued.
+(3) When a dealer’s general licence expires or is cancelled or
+otherwise ceases to be valid under this Act, the holder of the licence
+shall deliver to the Registrar the identification plates which were issued
+to the holder with the licence:
+Provided that upon the expiry of the licence the holder may retain
+the identification plates issued with the licence if he applies for and is
+issued with a new licence in respect of the same identification plates
+and the new licence would during the period of its validity authorize
+the use of such identification plates in the same manner as the expired
+licence.
+26. (1) The Registrar may at any time cancel a dealer’s general
+licence for a breach of any of the provisions of this Act or of any
+regulations made thereunder which relate to dealer’s general licences.
+Duration of dealer’s
+general licence.
+Cancellation of
+dealer’s general
+licence.
+20 CAP. 403 Traffic [Rev. 2009
+(2) The Registrar shall give notice of the cancellation to the
+person to whom the licence was issued, and may make to such person
+a refund calculated in like manner as is provided in subsection (2) of
+section 19.
+(3) Any person holding a dealer’s general licence who is aggrieved
+by the decision of the Registrar under this section may, within one month
+from the date of the service on him of notice of cancellation, appeal to
+a subordinate court of the first class.
+27. A dealer’s general licence shall not be used for any purpose
+other than a purpose provided for in this Act, and shall not be transferred
+or assigned to any other person without the authority of the Registrar.
+28. Where under this Part a licence is required and has not been
+obtained, a sum equal to the prescribed fee payable in respect of such
+licence shall be due and owing to the Controller of Inland Revenue by the
+person failing to obtain the licence, and shall be a civil debt recoverable
+summarily at the instance of the Controller of Inland Revenue.
+29. (1) Any person who contravenes or fails to comply with any
+of the provisions of this Part shall be guilty of an offence and liable
+on first conviction to a fine not exceeding one thousand shillings or
+to imprisonment for a term not exceeding three months, and on each
+subsequent conviction to a fine not exceeding two thousand shillings or
+to imprisonment for a period not exceeding six months or to both.
+(2) If any person is convicted of an offence under this section
+in a case where a licence fee under this Part is payable and has not
+been paid, the court may, whether or not any other penalty is imposed,
+impose a fine (which shall be disposed of in the same manner as the
+fee payable on the licence) of an amount equivalent to the fee unpaid,
+and the payment of such fine shall operate in satisfaction of any civil
+debt due under section 28.
+PART IV - DRIVING LICENCES
+30. (1) No person shall drive a motor vehicle of any class on a
+road unless he is the holder of a valid driving licence or a provisional
+licence endorsed in respect of that class of vehicle.
+(2) No person who owns or who has charge of a motor vehicle of
+any class shall cause or permit any person to drive such motor vehicle
+unless such person is the holder of a valid driving licence or a valid
+provisional licence endorsed in respect of that class of motor vehicle.
+Dealer’s general
+licence not to be
+transferred without
+authority.
+Recovery of licence
+fees by civil process.
+14 of 1958, s. 3.
+Penalties under this
+Part.
+14 of 1958, s. 4.
+Drivers to be
+licensed.
+14 of 1971, Sch.,
+1 of 1986, s. 4. 
+Rev. 2009] Traffic CAP. 403 21
+(3) No person shall be entitled to more than one driving licence,
+but a driving licence may be endorsed to permit the holder to drive one
+or more classes of motor vehicle.
+(4) Driving licences shall be issued, and upon expiry renewed
+on production, by a licensing officer upon payment of the prescribed
+fee, and a driving licence so issued or renewed may be expressed to be
+valid for a period of twelve months or of three years, from the date of
+issue or renewal, at the option of the holder thereof.
+(5) In the event of any change of circumstances which affects the
+accuracy of any particulars declared under paragraph (b) of subsection
+(1) of section 31, or which would operate to prevent the grant of a
+driving licence under that section, the holder of the driving licence shall
+forthwith inform the Registrar of the change.
+(6) Any person who contravenes or fails to comply with this
+section shall be guilty of an offence and liable -
+(a) on first conviction to a fine not exceeding two thousand
+shillings or to imprisonment for a term not exceeding three
+months; and
+(b) on each subsequent conviction to a fine not exceeding
+five thousand shillings or to imprisonment for a term not
+exceeding six months or to both.
+31. (1) A licensing officer shall not grant an applicant a driving
+licence endorsed in respect of any class of motor vehicle unless the
+applicant -
+(a) satisfies the licensing officer that he has passed a test
+of competence to drive that class of motor vehicle
+conducted under section 39, or that he holds a certificate
+of competency for that class of motor vehicle issued under
+the Traffic Ordinance (now repealed), or is the holder
+of a valid driving licence for that class of motor vehicle
+granted by a competent authority in some part of the
+Commonwealth where such driving licences are granted
+only after a prescribed test has been passed or is the holder
+of an international driving permit.
+(b) makes a declaration in the prescribed form as to whether
+or not he is suffering from any such disease or physical
+disability as may be specified in the form, or any other
+physical disability which would be likely to cause the driving
+by him of a motor vehicle, being a vehicle of such class as he
+would be authorized by the licence to drive, to be a source
+of danger to the public; and
+(c) is able to read, with glasses if worn, a motor vehicle
+identification plate at a distance of twenty-five metres.
+Conditions for
+granting of driving
+licence.
+9 of 1967, Sch.,
+11 of 1983, Sch.
+Cap. 232 (1948).
+22 CAP. 403 Traffic [Rev. 2009
+(2) If it appears to a licensing officer that there is reason to believe
+that an applicant for any driving licence is suffering from disease or
+physical disability likely to cause the driving by him of a motor vehicle,
+of the class or classes in respect of which the application for a licence
+is made, to be a source of danger to the public, he may refuse to grant
+such application unless the applicant -
+(a) produces a certificate from a medical practitioner, stating
+that in the opinion of such medical practitioner the applicant
+is physically fit to drive the class or classes of motor vehicle
+in question; and
+(b) undergoes and passes a driving test.
+(3) Any person who is aggrieved by the refusal of the Registrar or
+a licensing officer to grant a licence may, after giving to the Registrar
+notice of his intention so to do, appeal to a subordinate court of the
+first or second class, which shall after considering the grounds for such
+refusal make such order as it thinks fit, and any order so made shall be
+binding on the Registrar.
+32. (1) Notwithstanding subsection (1) of section 31, a licensing
+officer may grant an applicant for a driving licence a provisional licence
+endorsed in respect of any class or classes of motor vehicle which if he
+held a driving licence he would be entitled to drive, in order that the
+applicant may learn to drive such class or classes of vehicle.
+(2) Whenever the driving licence of any person has been cancelled
+or suspended, a licensing officer may, on application, so soon as the
+period of cancellation or suspension is over, grant to such person a
+provisional licence endorsed in respect of any class or classes of vehicle
+which if he held a driving licence he would be entitled to drive, with a
+view to such person passing any necessary test.
+(3) Provisional licenses shall be valid for three months only but
+may, in the discretion of the licensing officer, be renewed for further
+periods of three months on payment of the prescribed fee for granting
+a provisional licence.
+(4) Any person holding a provisional licence driving a motor
+vehicle shall comply with all such conditions as shall be prescribed.
+33. (1) No driving licence or provisional licence shall be granted
+to any person -
+(a) under the age of sixteen years;
+(b) under the age of eighteen years, except in respect of motorcycles; or
+(c) endorsed in respect of matatus and motor-omnibuses,
+unless he -
+Provisional driving
+licence.
+Driving licence not to
+be granted to persons
+under certain ages.
+11 of 1983, Sch.,
+10 of 1984, s.4. 
+Rev. 2009] Traffic CAP. 403 23
+(i) is over the age of twenty-four years; and
+(ii) has for not less than four years held a licence endorsed
+in respect of motor-cars or commercial vehicles:
+ Provided that any person who satisfies the licensing officer
+that he has, before the commencement of this Act, been in
+possession of a licence authorizing him to drive a motor
+vehicle in Kenya shall, subject to subsection (2) of section 31,
+notwithstanding the provisions of this section, be entitled to
+receive a licence in respect of the same class or description of
+vehicles which he is by such licence authorized to drive.
+(2) If the applicant for a driving licence fails to produce his birth
+certificate, the opinion of the licensing officer shall be conclusive as
+to a person’s age.
+34. (1) Applications for driving licences and provisional licences
+shall be made to a licensing officer in the prescribed form, accompanied
+by the prescribed fee, and the particulars required in such form shall be
+signed by the applicant.
+(2) Subject to subsection (3) of section 30, any person holding a
+driving licence endorsed in respect of any class of motor vehicle who
+wishes his licence endorsed in respect of another class or classes of
+motor vehicles shall apply to a licensing officer in the prescribed form
+and pay the prescribed fee, and the particulars and declaration in such
+form shall be signed by the applicant.
+35. Notwithstanding this Part, the Minister may make rules
+prescribing special terms and conditions for the issue of driving licences
+to members of the armed forces or any foreign military, naval or air
+forces lawfully present in Kenya for the purpose of driving service
+vehicles while on duty, and he may in such rules order that such licences
+shall be issued without the payment of any fee.
+36. (1) Any person driving a motor vehicle on a road shall carry
+his driving licence or provisional licence, and on being so required by
+a police officer, produce it for examination.
+(2) For the purposes of this section, “driving licence or provisional
+licence” includes such other evidence as will satisfy the police that there
+is no contravention of section 30.
+(3) Any person who contravenes or fails to comply with this
+section shall be guilty of an offence and liable to a fine not exceeding
+one hundred shillings.
+Form of application.
+Issue of driving
+licences to members
+of armed forces.
+L.N. 242/1964,
+9 of 1967, Sch.
+Production of driving
+licence on demand.
+1 of 1986, s. 5. 
+24 CAP. 403 Traffic [Rev. 2009
+37. (1) A driving licence shall be in the form of a computerized
+smart card made of plastic material containing a micro-processor-based
+chip, and provisional licences shall be in the prescribed form, which
+shall be impressed with the official stamp of the issuing authority.
+(2) The driving licence shall have -
+(a) a front side, which shall contain the Personal Identification
+Number (PIN) and Identity Card Number, photograph,
+name, date of birth, sex, signature, and licence number of
+the licence holder, and the class of the vehicle to be driven
+or restricted; and
+(b) a rear side, which shall contain the thumb print of the licence
+holder, the date of issue per class, the date of expiry per
+class, conditions and any other information, if any, and the
+signature and reference number of the issuing authority.
+(3) The micro-processor based chip shall contain features for
+micro-printing, image hosting, ultra-violet printing (logo), the national
+coat of arms, hologram, and both side lamination.
+(4) The micro-processor based chip shall contain the driver’s
+name, biometric information, the photograph, signature, licence number,
+class of vehicle to be driven or restricted, the date of issue, the date of
+expiry, conditions or other information, if any, and the signature and
+reference number of the issuing authority.
+38. If a driving licence or provisional licence is lost, defaced
+or mutilated, the Registrar shall, upon application being made in the
+prescribed form and upon payment of the prescribed fee, issue to the
+holder a duplicate licence or provisional licence:
+Provided that where any licence or provisional licence which has
+been lost is subsequently found the holder shall forthwith deliver up to
+the licensing officer such duplicate.
+39. (1) Driving tests for the purpose of this Act shall be conducted
+by driving test examiners.
+(2) Driving tests shall be carried out in such manner as the Minister
+may direct, but shall in any case include a test of the applicant’s -
+(a) knowledge of the rules of the road;
+(b) knowledge of recognized road signals and road signs;
+(c) knowledge of any authorized road or highway code; and
+(d) physical fitness to drive a motor vehicle of the class for
+which the licence is required.
+Form of driving and
+provisional licence.
+7 of 2007.
+Duplicate licences.
+Driving tests.
+52 of 1959, s.8.
+Rev. 2009] Traffic CAP. 403 25
+(3) No person shall undergo a test until he has paid the prescribed
+fee.
+40. (1) Upon application by a police officer of or above the rank
+of Superintendent, the Registrar may-
+(a) revoke the driving licence of any person who appears, in
+the opinion of the Registrar, to be suffering from a disease
+or disability likely to cause the driving by him of a motor
+vehicle to be a source of danger to the public; or
+(b) order a fresh driving test in the case of any holder of a
+driving licence who appears to the Registrar to be so deficient
+in driving ability as to be a source of danger to the public,
+and, if the licence holder fails to pass such test, order that
+his licence shall be revoked.
+(2) Where the Registrar has revoked a driving licence under
+subsection (1), the owner of such licence shall deliver his driving licence
+to the Registrar, who shall endorse on it the reason for its revocation.
+(3) The Registrar shall restore a driving licence revoked
+under subsection (1) to the person in question under the following
+conditions-
+(a) in the case of a licence revoked under paragraph (a) of
+subsection (1), if he satisfies the Registrar, by means of a
+certificate from a medical practitioner, that he is suffering
+from no disease or physical disability likely to cause the
+driving by him of a motor vehicle, of the class or classes in
+respect of which his licence was issued, to be a source of
+danger to the public; and
+(b) in the case of a licence revoked under paragraph (b) of
+subsection (1), if he passes the prescribed test for the class
+or classes of motor vehicle in respect of which his licence
+was originally granted.
+(4) Any person who is aggrieved by the revocation of a licence
+under this section may, after giving to the Registrar notice of his
+intention so to do, appeal to a subordinate court of the first or second
+class, which shall, after considering the grounds for such revocation,
+make such order as it thinks fit, and any order so made shall be binding
+on the Registrar.
+41. Any person who contravenes or fails to comply with any
+of the provisions of this Part shall be guilty of an offence and liable,
+where no penalty is specifically provided, on first conviction to a fine
+not exceeding one thousand shillings or to imprisonment for a term not
+exceeding three months, and on each subsequent conviction to a fine
+not exceeding two thousand shillings or to imprisonment for a term not
+exceeding six months or to both.
+Revocation, etc., of
+driving licences upon
+application by police.
+1 of 1986, s.6.
+Penalties under this
+Part.
+1 of 1986, s.7. 
+26 CAP. 403 Traffic [Rev. 2009
+PART V - DRIVING AND OTHER OFFENCES RELATING TO THE USE OF
+VEHICLES ON ROADS
+42. (1) No person shall drive, or, being the owner or person in
+charge of a vehicle, cause or permit any other person to drive, a vehicle
+on a road at a speed greater than such speed as may be prescribed as
+the maximum speed for that class of vehicle.
+(2) On a vehicle subject to a speed restriction under subsection (1)
+except a vehicle registered as a motor-car or motor-cycle or a private hire
+vehicle, there shall be painted or affixed to the rear, as close as possible
+to the rear number plate and so as to be clearly legible to a person within
+ten metres of the rear of the vehicle, a mark in the prescribed form
+indicating its maximum permitted speed in kilometres per hour.
+(3) No person shall drive, or, being the owner or person in charge
+of a vehicle, cause or permit any other person to drive, any vehicle at
+a speed exceeding fifty kilometres per hour on any road within the
+boundaries of any trading centre, township, municipality or city:
+Provided that the highway authority shall erect and maintain
+traffic signs as prescribed so as plainly to indicate to drivers entering
+or leaving such roads or areas where the fifty kilometre per hour speed
+limit restriction begins and ends.
+(4) Notwithstanding subsections (1) and (3), it shall be lawful
+for the Minister -
+(a) to impose on any road such lower limit of speed as it
+considers necessary in circumstances when, by reason of
+repairs, reconstruction or damage to the road or the condition
+of the road, any lower limit of speed is necessary for the
+public-safety or to prevent damage to the road:
+ Provided that such lower limit shall be imposed only for such
+period as is necessary to carry out repairs or reconstruction
+or until the condition of the road is satisfactory;
+(b) to impose on any road or area, either permanently or for
+such time as he considers appropriate, such lower limit of
+speed as may be necessary to prevent damage to the road or
+for the safety of the public having regard to any permanent
+or temporary hazards, the alignment or characteristics of
+the road, the width of streets, nature of traffic or general
+development of the area:
+Provided that, in any case whilst such lower limit is in force under
+this subsection, indication of the maximum speed permitted shall be
+Speed of motor
+vehicles.
+14 of 1971, Sch.,
+11 of 1983, Sch.,
+1 of 1986, s.8.
+Rev. 2009] Traffic CAP. 403 27
+given by prescribed traffic signs erected and maintained so as plainly
+to indicate to drivers entering or leaving such restricted road where the
+lower speed limit begins and ends.
+(4A). The Minister may by notice in the Gazette delegate the
+power conferred by subsection (4) to a highway authority or other
+public body.
+(4B). A delegation under subsection (4A) may -
+(a) be made subject to such conditions, exceptions and
+limitations as are specified in the notice;
+(b) be made either generally or with respect to any particular
+road or area; and
+(c) be revoked or varied by a subsequent notice made in like
+manner,
+and shall not prevent the exercise by the Minister of any power so
+delegated.
+(5) The provisions of this section or of this or any other Act,
+imposing a speed limit on motor vehicles, shall not apply to any vehicle
+on an occasion when it is being used for fire brigade, ambulance or
+police purposes, if the observance of such provisions would be likely
+to hinder the use of the vehicle for the purpose for which it is being
+used on that occasion.
+(6) Nothing in subsection (5) authorizes a person to use a motor
+vehicle for fire brigade, ambulance or police purposes in contravention
+of any other provision of this Act.
+43. (1) Any person who contravenes or fails to comply with any
+of the provisions of section 42 shall be guilty of an offence and liable
+to a fine of not less than two hundred shillings and not exceeding two
+thousand shillings.
+(2) A first or second conviction for an offence under this section
+shall not render the offender liable to be disqualified for holding
+or obtaining a licence for a longer period than, in the case of a first
+conviction, one month, or in the case of a second conviction three
+months:
+Provided that, if the offender has been convicted of reckless or
+dangerous driving within the three years immediately preceding the
+date of his conviction for an offence under this section, such previous
+conviction shall be treated for the purposes of this subsection as if it
+had been a conviction for an offence under this section.
+Penalties in relation
+to speed.
+1 of 1986,
